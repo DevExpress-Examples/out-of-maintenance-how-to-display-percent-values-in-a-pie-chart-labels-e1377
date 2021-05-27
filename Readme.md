@@ -6,8 +6,4 @@
 # How to display percent values in a pie chart labels
 
 
-<p>This example demonstrates how to make series point labels of a <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument2967.htm"><u>pie chart</u></a> show their values as percentages.</p><p></p>
-
-<br/>
-
-
+This example demonstrates how to make series point labels of a [pie chart](https://docs.devexpress.com/WindowsForms/2967/controls-and-libraries/chart-control/series-views/2d-series-views/pie-and-donut-series-views) show their values as percentages.
